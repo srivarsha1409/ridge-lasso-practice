@@ -1,4 +1,5 @@
 📊 RIDGE,LASSO & POLYNOMIAL ANALYSIS:
+
 📝OVERVIEW:
 
 This project applies Ridge, Lasso, and Polynomial Regression on various datasets to handle multicollinearity, perform feature selection, and model non-linear relationships. Models are evaluated using R² and RMSE.
