@@ -1,9 +1,9 @@
-📊 Ridge, Lasso & Polynomial Regression Analysis
-📝 Overview
+📊 RIDGE,LASSO & POLYNOMIAL ANALYSIS:
+📝OVERVIEW:
 
 This project applies Ridge, Lasso, and Polynomial Regression on various datasets to handle multicollinearity, perform feature selection, and model non-linear relationships. Models are evaluated using R² and RMSE.
 
-✨ Key Features
+✨ KEY FEATURES:
 
 🟦 Ridge Regression: Handles correlated features, finds optimal alpha via cross-validation.
 
@@ -16,7 +16,7 @@ This project applies Ridge, Lasso, and Polynomial Regression on various datasets
 
 
 
-⚙️ Requirements
+⚙️ REQUIREMENTS:
 
 Python >= 3.8
 
@@ -30,7 +30,7 @@ pip install numpy pandas matplotlib scikit-learn jupyter
 
 
 
-✨ Scripts & Features
+✨ SCRIPTS & FEATURES
 
 TASK 1:🟦 Ridge Regression (2 correlated features)
 
